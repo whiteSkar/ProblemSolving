@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Treasure Hunt", "Treasure Hunt\Treasure Hunt.vcxproj", "{6913065B-ABC5-4247-B4A1-440EA224941F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6913065B-ABC5-4247-B4A1-440EA224941F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6913065B-ABC5-4247-B4A1-440EA224941F}.Debug|Win32.Build.0 = Debug|Win32
+		{6913065B-ABC5-4247-B4A1-440EA224941F}.Release|Win32.ActiveCfg = Release|Win32
+		{6913065B-ABC5-4247-B4A1-440EA224941F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

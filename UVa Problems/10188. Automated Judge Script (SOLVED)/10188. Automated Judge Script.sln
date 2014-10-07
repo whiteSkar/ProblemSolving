@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10188. Automated Judge Script", "10188. Automated Judge Script\10188. Automated Judge Script.vcxproj", "{824EA002-6518-4B97-B133-424CF5132778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824EA002-6518-4B97-B133-424CF5132778}.Debug|Win32.ActiveCfg = Debug|Win32
+		{824EA002-6518-4B97-B133-424CF5132778}.Debug|Win32.Build.0 = Debug|Win32
+		{824EA002-6518-4B97-B133-424CF5132778}.Release|Win32.ActiveCfg = Release|Win32
+		{824EA002-6518-4B97-B133-424CF5132778}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

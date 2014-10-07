@@ -1,0 +1,7 @@
+1. Presentation Error can occur when two cases have different number of test cases but have same number such as
+3
+123
+123
+123
+1
+123123123

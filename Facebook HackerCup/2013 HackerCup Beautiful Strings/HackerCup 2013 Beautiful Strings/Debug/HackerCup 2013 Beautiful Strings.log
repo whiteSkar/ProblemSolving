@@ -1,0 +1,22 @@
+﻿Build started 1/28/2013 11:29:27 AM.
+     1>Project "c:\Users\Zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\HackerCup 2013 Beautiful Strings\HackerCup 2013 Beautiful Strings.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HackerCup 2013 Beautiful Strings.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\zoro\documents\visual studio 2010\projects\hackercup 2013 beautiful strings\hackercup 2013 beautiful strings\main.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\Debug\HackerCup 2013 Beautiful Strings.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HackerCup 2013 Beautiful Strings.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\Debug\HackerCup 2013 Beautiful Strings.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\Debug\HackerCup 2013 Beautiful Strings.lib" /MACHINE:X86 Debug\main.obj
+         LINK : c:\users\zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\Debug\HackerCup 2013 Beautiful Strings.exe not found or not built by the last incremental link; performing full link
+         HackerCup 2013 Beautiful Strings.vcxproj -> c:\users\zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\Debug\HackerCup 2013 Beautiful Strings.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\Debug\HackerCup 2013 Beautiful Strings.exe;#1" /manifest "Debug\HackerCup 2013 Beautiful Strings.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\HackerCup 2013 Beautiful Strings.unsuccessfulbuild".
+         Touching "Debug\HackerCup 2013 Beautiful Strings.lastbuildstate".
+     1>Done Building Project "c:\Users\Zoro\documents\visual studio 2010\Projects\HackerCup 2013 Beautiful Strings\HackerCup 2013 Beautiful Strings\HackerCup 2013 Beautiful Strings.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.59

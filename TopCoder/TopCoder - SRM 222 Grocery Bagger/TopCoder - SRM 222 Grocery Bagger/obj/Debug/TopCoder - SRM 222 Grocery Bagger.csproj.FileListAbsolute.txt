@@ -1,0 +1,6 @@
+c:\users\saeyoung\documents\visual studio 2012\Projects\TopCoder - SRM 222 Grocery Bagger\TopCoder - SRM 222 Grocery Bagger\bin\Debug\TopCoder - SRM 222 Grocery Bagger.exe.config
+c:\users\saeyoung\documents\visual studio 2012\Projects\TopCoder - SRM 222 Grocery Bagger\TopCoder - SRM 222 Grocery Bagger\bin\Debug\TopCoder - SRM 222 Grocery Bagger.exe
+c:\users\saeyoung\documents\visual studio 2012\Projects\TopCoder - SRM 222 Grocery Bagger\TopCoder - SRM 222 Grocery Bagger\bin\Debug\TopCoder - SRM 222 Grocery Bagger.pdb
+c:\users\saeyoung\documents\visual studio 2012\Projects\TopCoder - SRM 222 Grocery Bagger\TopCoder - SRM 222 Grocery Bagger\obj\Debug\TopCoder - SRM 222 Grocery Bagger.csprojResolveAssemblyReference.cache
+c:\users\saeyoung\documents\visual studio 2012\Projects\TopCoder - SRM 222 Grocery Bagger\TopCoder - SRM 222 Grocery Bagger\obj\Debug\TopCoder - SRM 222 Grocery Bagger.exe
+c:\users\saeyoung\documents\visual studio 2012\Projects\TopCoder - SRM 222 Grocery Bagger\TopCoder - SRM 222 Grocery Bagger\obj\Debug\TopCoder - SRM 222 Grocery Bagger.pdb

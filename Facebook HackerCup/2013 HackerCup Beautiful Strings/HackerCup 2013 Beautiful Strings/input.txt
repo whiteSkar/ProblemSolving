@@ -1,0 +1,18 @@
+17
+ABbCcc
+Good luck in the Facebook Hacker Cup this year!
+Ignore punctuation, please :)
+Sometimes test cases are hard to make up.
+So I just go consult Professor Dalves
+will delete all the text files in the current directory and subdirectories. Now suppose you have some program that takes a long time to run. The -n argument will specify how the max number of arguments per invocation, and the -P argument will specify how many processes to run at once. For example:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvxwyz
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+AAAAAAAAAAAAAAAAAAAAAAAAAA
+aa
+bb
+ZZ
+a a a a a
+aaaaa
+a,b,c,d  e f ! h
+abcdefh

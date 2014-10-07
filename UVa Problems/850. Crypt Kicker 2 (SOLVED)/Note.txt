@@ -1,0 +1,5 @@
+1. re-initialize objects such as the base key
+
+2. last line does not produce a new line
+
+3. a test case where there is no characters but just new line

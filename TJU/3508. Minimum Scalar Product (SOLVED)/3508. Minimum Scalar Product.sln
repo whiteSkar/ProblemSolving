@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3508. Minimum Scalar Product", "3508. Minimum Scalar Product\3508. Minimum Scalar Product.vcxproj", "{9593027A-03CF-439D-91B0-77A18F9D6462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9593027A-03CF-439D-91B0-77A18F9D6462}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9593027A-03CF-439D-91B0-77A18F9D6462}.Debug|Win32.Build.0 = Debug|Win32
+		{9593027A-03CF-439D-91B0-77A18F9D6462}.Release|Win32.ActiveCfg = Release|Win32
+		{9593027A-03CF-439D-91B0-77A18F9D6462}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

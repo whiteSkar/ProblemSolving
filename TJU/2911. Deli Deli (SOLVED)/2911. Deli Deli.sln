@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2911. Deli Deli", "2911. Deli Deli\2911. Deli Deli.vcxproj", "{31EF351D-FF86-4FF9-AB1B-86D2F2D37060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EF351D-FF86-4FF9-AB1B-86D2F2D37060}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31EF351D-FF86-4FF9-AB1B-86D2F2D37060}.Debug|Win32.Build.0 = Debug|Win32
+		{31EF351D-FF86-4FF9-AB1B-86D2F2D37060}.Release|Win32.ActiveCfg = Release|Win32
+		{31EF351D-FF86-4FF9-AB1B-86D2F2D37060}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
