@@ -1,0 +1,15 @@
+﻿Build started 9/27/2014 1:37:21 PM.
+     1>Project "s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 E\ACM 2014 Tryout 2 E\ACM 2014 Tryout 2 E.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         P:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>s:\whiteskar\documents\visual studio 2012\projects\acm 2014 tryout 2 e\acm 2014 tryout 2 e\source.cpp(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 p:\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+       Link:
+         P:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 E\Debug\ACM 2014 Tryout 2 E.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 E\Debug\ACM 2014 Tryout 2 E.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 E\Debug\ACM 2014 Tryout 2 E.lib" /MACHINE:X86 Debug\Source.obj
+         ACM 2014 Tryout 2 E.vcxproj -> s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 E\Debug\ACM 2014 Tryout 2 E.exe
+     1>Done Building Project "s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 E\ACM 2014 Tryout 2 E\ACM 2014 Tryout 2 E.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.14

@@ -1,0 +1,6 @@
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - ReplacementGrammar\MS Code Challenge - ReplacementGrammar\bin\Debug\MS Code Challenge - ReplacementGrammar.exe.config
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - ReplacementGrammar\MS Code Challenge - ReplacementGrammar\bin\Debug\MS Code Challenge - ReplacementGrammar.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - ReplacementGrammar\MS Code Challenge - ReplacementGrammar\bin\Debug\MS Code Challenge - ReplacementGrammar.pdb
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - ReplacementGrammar\MS Code Challenge - ReplacementGrammar\obj\Debug\MS Code Challenge - ReplacementGrammar.csprojResolveAssemblyReference.cache
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - ReplacementGrammar\MS Code Challenge - ReplacementGrammar\obj\Debug\MS Code Challenge - ReplacementGrammar.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - ReplacementGrammar\MS Code Challenge - ReplacementGrammar\obj\Debug\MS Code Challenge - ReplacementGrammar.pdb

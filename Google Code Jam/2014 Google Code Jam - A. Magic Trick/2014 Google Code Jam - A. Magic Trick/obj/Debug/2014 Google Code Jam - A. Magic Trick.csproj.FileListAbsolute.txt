@@ -1,0 +1,6 @@
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - A. Magic Trick\2014 Google Code Jam - A. Magic Trick\bin\Debug\_2014_Google_Code_Jam___A.Magic_Trick.exe.config
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - A. Magic Trick\2014 Google Code Jam - A. Magic Trick\bin\Debug\_2014_Google_Code_Jam___A.Magic_Trick.exe
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - A. Magic Trick\2014 Google Code Jam - A. Magic Trick\bin\Debug\_2014_Google_Code_Jam___A.Magic_Trick.pdb
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - A. Magic Trick\2014 Google Code Jam - A. Magic Trick\obj\Debug\2014 Google Code Jam - A. Magic Trick.csprojResolveAssemblyReference.cache
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - A. Magic Trick\2014 Google Code Jam - A. Magic Trick\obj\Debug\_2014_Google_Code_Jam___A.Magic_Trick.exe
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - A. Magic Trick\2014 Google Code Jam - A. Magic Trick\obj\Debug\_2014_Google_Code_Jam___A.Magic_Trick.pdb

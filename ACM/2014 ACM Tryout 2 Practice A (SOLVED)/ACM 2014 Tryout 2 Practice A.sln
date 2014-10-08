@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACM 2014 Tryout 2 Practice A", "ACM 2014 Tryout 2 Practice A\ACM 2014 Tryout 2 Practice A.vcxproj", "{F68FDE81-6385-498A-A8E9-118EE69F6F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68FDE81-6385-498A-A8E9-118EE69F6F11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F68FDE81-6385-498A-A8E9-118EE69F6F11}.Debug|Win32.Build.0 = Debug|Win32
+		{F68FDE81-6385-498A-A8E9-118EE69F6F11}.Release|Win32.ActiveCfg = Release|Win32
+		{F68FDE81-6385-498A-A8E9-118EE69F6F11}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

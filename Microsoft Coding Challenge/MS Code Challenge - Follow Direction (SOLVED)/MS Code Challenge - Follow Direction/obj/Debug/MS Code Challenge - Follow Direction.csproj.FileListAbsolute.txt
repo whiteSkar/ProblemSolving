@@ -1,0 +1,6 @@
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - Follow Direction\MS Code Challenge - Follow Direction\bin\Debug\MS Code Challenge - Follow Direction.exe.config
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - Follow Direction\MS Code Challenge - Follow Direction\bin\Debug\MS Code Challenge - Follow Direction.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - Follow Direction\MS Code Challenge - Follow Direction\bin\Debug\MS Code Challenge - Follow Direction.pdb
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - Follow Direction\MS Code Challenge - Follow Direction\obj\Debug\MS Code Challenge - Follow Direction.csprojResolveAssemblyReference.cache
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - Follow Direction\MS Code Challenge - Follow Direction\obj\Debug\MS Code Challenge - Follow Direction.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - Follow Direction\MS Code Challenge - Follow Direction\obj\Debug\MS Code Challenge - Follow Direction.pdb

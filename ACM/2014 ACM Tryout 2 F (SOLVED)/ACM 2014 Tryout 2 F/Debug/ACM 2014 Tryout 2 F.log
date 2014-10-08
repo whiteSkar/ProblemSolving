@@ -1,0 +1,15 @@
+﻿Build started 9/27/2014 2:45:10 PM.
+     1>Project "s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 F\ACM 2014 Tryout 2 F\ACM 2014 Tryout 2 F.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         P:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>s:\whiteskar\documents\visual studio 2012\projects\acm 2014 tryout 2 f\acm 2014 tryout 2 f\source.cpp(72): warning C4244: 'initializing' : conversion from 'ull' to 'int', possible loss of data
+     1>s:\whiteskar\documents\visual studio 2012\projects\acm 2014 tryout 2 f\acm 2014 tryout 2 f\source.cpp(73): warning C4244: 'initializing' : conversion from 'ull' to 'int', possible loss of data
+       Link:
+         P:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 F\Debug\ACM 2014 Tryout 2 F.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 F\Debug\ACM 2014 Tryout 2 F.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 F\Debug\ACM 2014 Tryout 2 F.lib" /MACHINE:X86 Debug\Source.obj
+         ACM 2014 Tryout 2 F.vcxproj -> s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 F\Debug\ACM 2014 Tryout 2 F.exe
+     1>Done Building Project "s:\whiteskar\documents\visual studio 2012\Projects\ACM 2014 Tryout 2 F\ACM 2014 Tryout 2 F\ACM 2014 Tryout 2 F.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.14

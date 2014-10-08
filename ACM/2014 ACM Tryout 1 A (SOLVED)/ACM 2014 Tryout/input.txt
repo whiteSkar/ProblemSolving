@@ -1,0 +1,8 @@
+6 Cheddar Cheddar Cheddar Gouda Gouda Havarti
+3 Gouda Gouda Havarti
+3 Gouda Cheddar Havarti
+4 Cheddar Cheddar Cheddar Cheddar
+1 Havarti
+2 Havarti Cheddar
+2 Havarti Havarti
+0

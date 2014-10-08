@@ -1,0 +1,6 @@
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - B. Cookie Clicker\2014 Google Code Jam - B. Cookie Clicker\bin\Debug\_2014_Google_Code_Jam___B.Cookie_Clicker.exe.config
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - B. Cookie Clicker\2014 Google Code Jam - B. Cookie Clicker\bin\Debug\_2014_Google_Code_Jam___B.Cookie_Clicker.exe
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - B. Cookie Clicker\2014 Google Code Jam - B. Cookie Clicker\bin\Debug\_2014_Google_Code_Jam___B.Cookie_Clicker.pdb
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - B. Cookie Clicker\2014 Google Code Jam - B. Cookie Clicker\obj\Debug\2014 Google Code Jam - B. Cookie Clicker.csprojResolveAssemblyReference.cache
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - B. Cookie Clicker\2014 Google Code Jam - B. Cookie Clicker\obj\Debug\_2014_Google_Code_Jam___B.Cookie_Clicker.exe
+s:\whiteskar\documents\visual studio 2012\Projects\2014 Google Code Jam - B. Cookie Clicker\2014 Google Code Jam - B. Cookie Clicker\obj\Debug\_2014_Google_Code_Jam___B.Cookie_Clicker.pdb

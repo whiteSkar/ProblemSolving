@@ -1,0 +1,12 @@
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - NDrome\MS Code Challenge - NDrome\bin\Debug\MS Code Challenge - NDrome.exe.config
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - NDrome\MS Code Challenge - NDrome\bin\Debug\MS Code Challenge - NDrome.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - NDrome\MS Code Challenge - NDrome\bin\Debug\MS Code Challenge - NDrome.pdb
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - NDrome\MS Code Challenge - NDrome\obj\Debug\MS Code Challenge - NDrome.csprojResolveAssemblyReference.cache
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - NDrome\MS Code Challenge - NDrome\obj\Debug\MS Code Challenge - NDrome.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge - NDrome\MS Code Challenge - NDrome\obj\Debug\MS Code Challenge - NDrome.pdb
+S:\git\ProblemSolving\Microsoft Coding Challenge\MS Code Challenge - NDrome (SOLVED)\MS Code Challenge - NDrome\bin\Debug\MS Code Challenge - NDrome.exe.config
+S:\git\ProblemSolving\Microsoft Coding Challenge\MS Code Challenge - NDrome (SOLVED)\MS Code Challenge - NDrome\obj\Debug\MS Code Challenge - NDrome.exe
+S:\git\ProblemSolving\Microsoft Coding Challenge\MS Code Challenge - NDrome (SOLVED)\MS Code Challenge - NDrome\obj\Debug\MS Code Challenge - NDrome.pdb
+S:\git\ProblemSolving\Microsoft Coding Challenge\MS Code Challenge - NDrome (SOLVED)\MS Code Challenge - NDrome\bin\Debug\MS Code Challenge - NDrome.exe
+S:\git\ProblemSolving\Microsoft Coding Challenge\MS Code Challenge - NDrome (SOLVED)\MS Code Challenge - NDrome\bin\Debug\MS Code Challenge - NDrome.pdb
+S:\git\ProblemSolving\Microsoft Coding Challenge\MS Code Challenge - NDrome (SOLVED)\MS Code Challenge - NDrome\obj\Debug\MS Code Challenge - NDrome.csprojResolveAssemblyReference.cache

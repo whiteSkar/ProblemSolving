@@ -1,0 +1,6 @@
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge Clock Angles\MS Code Challenge Clock Angles\bin\Debug\MS Code Challenge Clock Angles.exe.config
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge Clock Angles\MS Code Challenge Clock Angles\bin\Debug\MS Code Challenge Clock Angles.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge Clock Angles\MS Code Challenge Clock Angles\bin\Debug\MS Code Challenge Clock Angles.pdb
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge Clock Angles\MS Code Challenge Clock Angles\obj\Debug\MS Code Challenge Clock Angles.csprojResolveAssemblyReference.cache
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge Clock Angles\MS Code Challenge Clock Angles\obj\Debug\MS Code Challenge Clock Angles.exe
+s:\whiteskar\documents\visual studio 2012\Projects\MS Code Challenge Clock Angles\MS Code Challenge Clock Angles\obj\Debug\MS Code Challenge Clock Angles.pdb
