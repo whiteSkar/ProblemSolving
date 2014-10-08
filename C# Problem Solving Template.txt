@@ -1,0 +1,35 @@
+/* when number of cases are indicated
+
+var fileLines = System.IO.File.ReadAllLines(@"input.txt").ToList();
+
+var outputLines = new List<string>();
+int lineIndex = 0;
+var n = Int32.Parse(fileLines[lineIndex++]);
+
+outputLines.Add(n.ToString());
+
+while (n-- > 0)
+{
+    
+
+    //outputLines.Add(string.Format());
+}
+
+System.IO.File.WriteAllLines(@"output.txt", outputLines);
+
+
+/* when number of lines are used
+var fileLines = System.IO.File.ReadAllLines(@"SampleInput.txt").ToList();
+
+var outputLines = new List<string>();
+int lineIndex = 0;
+var numInputLines = fileLines.Count;
+
+for ( ; lineIndex < numInputLines; )
+{
+
+
+    //outputLines.Add(string.Format());
+}
+
+System.IO.File.WriteAllLines(@"output.txt", outputLines);
