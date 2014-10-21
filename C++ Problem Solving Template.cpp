@@ -1,15 +1,22 @@
+#include <math.h>
+#include <string.h>
 #include <iostream>
 #include <string>
 #include <fstream>
 #include <unordered_map>
 #include <algorithm>
 #include <vector>
-#include <math.h>
 #include <iomanip>
 
 using namespace std;
 
 typedef unsigned long long ull;
+
+/* How to make an array of 2d array statically */
+const int COL_SIZE = 5;
+const int twoDArrSize = 3;
+typedef char (*twoDArray)[COL_SIZE];
+twoDArray twoDArr[twoDArrSize] = {};
 
 int getLength(char* str);
 int getLength(int num);
@@ -43,10 +50,7 @@ int getLength(char* str)
 	if (!str)
 		return 0;
 
-	int i = 0;
-	while (str[i++] != '\0')
-
-	return i;
+	return strlen(str);
 }
 
 int getLength(int num)
