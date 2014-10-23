@@ -11,6 +11,7 @@
 using namespace std;
 
 typedef unsigned long long ull;
+typedef pair<int, int> pos;
 
 /* How to make an array of 2d array statically */
 const int COL_SIZE = 5;
