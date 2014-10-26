@@ -59,7 +59,7 @@ int getLength(int num)
 	char buf[21];
 
 	sprintf(buf, "%d", num);
-	return getLength(buf);
+	return strlen(buf);
 }
 
 int getLength(ull num)
