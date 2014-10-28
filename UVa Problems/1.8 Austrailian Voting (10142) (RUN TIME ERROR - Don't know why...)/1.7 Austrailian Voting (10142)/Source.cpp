@@ -15,6 +15,7 @@ typedef pair<int, int> candidateId;
 
 void tokenizeString(const string &str, vector<string>& tokens, const string &delimiters);
 bool candidateIdCompare(const candidateId &c1, const candidateId &c2);
+bool isStringEmptyOrWhitespace(string str);
 
 const int CANDIDATE_MAX_COUNT = 20;
 const int BALLOT_MAX_COUNT = 1000;
@@ -31,7 +32,7 @@ void popUntilAliveCandidate(vector<int> &candidateIds)
 {
 	while (!candidateIds.empty())
 	{
-		int candidateId = candidateIds.front()-1;
+		int candidateId = candidateIds.front();
 		if (isCandidateAlive(candidateId))
 			break;
 		candidateIds.erase(candidateIds.begin());
@@ -50,7 +51,7 @@ void initializeAliveCandidateBallots(candidateId *curBallots, int aliveCandidate
 
 		curBallots[i] = candidateId(id++, 0);
 	}
-}
+};
 
 candidateId *getCandidateId(int id, candidateId *curBallots, int aliveCandidateCount)
 {
@@ -76,7 +77,12 @@ int main()
 		for (int i = 0; i < BALLOT_MAX_COUNT; ++i)
 			ballots[i].clear();
 
-		getline(cin, input);
+		while (getline(cin, input))
+		{
+			if (!isStringEmptyOrWhitespace(input))
+				break;
+		}
+
 		int candidateCount = atoi(input.c_str());
 		
 		for (int i = 0; i < candidateCount; ++i)
@@ -88,28 +94,35 @@ int main()
 		int ballotCount = 0;
 		while (getline(cin, input))
 		{
-			if (input.empty())
+			if (isStringEmptyOrWhitespace(input))
 				break;
 
 			vector<string> ids;
 			tokenizeString(input, ids, " ");
 
 			for (auto it = ids.begin(); it != ids.end(); it++)
-				ballots[ballotCount].push_back(atoi((*it).c_str()));
+				ballots[ballotCount].push_back(atoi((*it).c_str()) - 1);
 
 			ballotCount++;
 		}
 
 		vector<int> winnerIds;
 		int aliveCandidateCount = candidateCount;
-		while (true)
+
+		if (ballotCount == 0)
+		{
+			for (int i = 0; i < aliveCandidateCount; ++i)
+				winnerIds.push_back(i);
+		}
+
+		while (ballotCount > 0)
 		{
 			candidateId *curBallots = new candidateId[aliveCandidateCount];
 			initializeAliveCandidateBallots(curBallots, aliveCandidateCount);
 
 			for (int i = 0; i < ballotCount; ++i)
 			{
-				getCandidateId(ballots[i].front() - 1, curBallots, aliveCandidateCount)->second++;
+				getCandidateId(ballots[i].front(), curBallots, aliveCandidateCount)->second++;
 			}
 
 			sort(curBallots, curBallots + aliveCandidateCount, candidateIdCompare);
@@ -203,4 +216,11 @@ void tokenizeString(const string &str, vector<string>& tokens, const string &del
 bool candidateIdCompare(const candidateId &c1, const candidateId &c2)	// put in template
 {
 	return c1.second < c2.second;
+}
+
+bool isStringEmptyOrWhitespace(string str)
+{
+	if (str.empty() || str.find_first_not_of(' ') == std::string::npos)
+		return true;
+	return false;
 }

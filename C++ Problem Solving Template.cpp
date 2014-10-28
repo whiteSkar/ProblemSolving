@@ -15,6 +15,7 @@ typedef pair<int, int> pos;
 
 void tokenizeString(const string &str, vector<string>& tokens, const string &delimiters);
 bool pairCompare(const pos &arg1, const pos &arg2);
+bool isStringEmptyOrWhitespace(string str);
 
 /* How to make an array of 2d array statically */
 const int COL_SIZE = 5;
@@ -108,4 +109,11 @@ void tokenizeString(const string &str, vector<string>& tokens, const string &del
 bool pairCompare(const pos &arg1, const pos &arg2)
 {
 	return arg1.second < arg2.second;
+}
+
+bool isStringEmptyOrWhitespace(string str)
+{
+	if (str.empty() || str.find_first_not_of(' ') == std::string::npos)
+		return true;
+	return false;
 }
