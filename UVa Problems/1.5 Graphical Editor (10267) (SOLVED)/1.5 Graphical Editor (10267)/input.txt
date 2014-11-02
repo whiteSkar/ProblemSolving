@@ -1,0 +1,25 @@
+I 5 6
+L 2 3 A
+S one.bmp
+G 2 3 J
+F 3 3 J
+V 2 3 4 W
+H 3 4 2 Z
+S two.bmp
+I 250 250
+H 1 250 10 C
+V 10 1 250 D
+H 0 251 11 E
+V 0 251 11 F
+H 0 251 0 G
+V 0 251 251 H
+S three.bmp
+I 15 15
+H 1 15 1 C
+V 1 15 1 D
+H 0 16 2 E
+V 2 16 0 F
+H 0 16 0 G
+V 0 16 16 H
+S four.bmp
+X

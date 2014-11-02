@@ -195,7 +195,7 @@ int main()
 	return 0;
 }
 
-void tokenizeString(const string &str, vector<string>& tokens, const string &delimiters = " ")	// put in template
+void tokenizeString(const string &str, vector<string>& tokens, const string &delimiters = " ")
 {
     // Skip delimiters at beginning.
     string::size_type lastPos = str.find_first_not_of(delimiters, 0);
@@ -213,7 +213,7 @@ void tokenizeString(const string &str, vector<string>& tokens, const string &del
     }
 }
 
-bool candidateIdCompare(const candidateId &c1, const candidateId &c2)	// put in template
+bool candidateIdCompare(const candidateId &c1, const candidateId &c2)
 {
 	return c1.second < c2.second;
 }
